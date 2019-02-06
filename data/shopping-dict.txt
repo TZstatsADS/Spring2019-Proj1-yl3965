@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 acquired
 bargain
 bargains
@@ -21,4 +22,29 @@ shopped
 shopping
 shops
 store
+=======
+acquired
+bargain
+bargains
+bought
+buy
+buying
+cheap
+cheaper
+discount
+discounted
+discounts
+mall
+ordered
+purchase
+purchased
+purchasing
+retail
+sale
+shop
+shopped
+shopping
+shops
+store
+>>>>>>> da46dafc5bbf745caf8fef9bec05eadc7424fab2
 stores
