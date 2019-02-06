@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 movie
 tv
 film
@@ -111,4 +112,119 @@ game of thrones
 rick and morty
 comedy
 nintendo
+=======
+movie
+tv
+film
+television
+show
+book
+videogame
+films
+movies
+shows
+books
+videogames
+novel
+broadcast
+video-game
+author
+broadcasts
+broadcasting
+novels
+broadcasted
+aired
+airing
+short stories
+fiction
+non-fiction
+airs
+radio
+episodes
+flick
+nonfiction
+episode
+flicks
+science fiction
+poems
+poem
+poetry
+t.v.
+youtube
+video
+netflix
+premiere
+album
+reading
+albums
+t.v
+videos
+read
+premiered
+hulu
+premieres
+premiering
+novellas
+vids
+poet
+music video
+vid
+novella
+poets
+songs
+writer
+song
+music
+tunes
+novelist
+tune
+lyrics
+theater
+theatre
+writers
+debuted
+lyric
+novelists
+debuting
+debuts
+concert
+video game
+anime
+new single
+movie theater
+concerts
+manga
+authors
+short story
+animes
+hentai
+mangas
+performances
+performers
+musical
+musicians
+dancers
+singers
+entertainers
+performer
+vocalists
+artists
+musician
+rewatched
+re-watched
+rewatch
+re-watch
+entertainment
+songwriter
+artist
+singer
+dancer
+composer
+band
+bands
+game of thrones
+rick and morty
+comedy
+nintendo
+>>>>>>> da46dafc5bbf745caf8fef9bec05eadc7424fab2
 cinema
